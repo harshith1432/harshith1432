@@ -8,10 +8,6 @@
 - 🎓 MCA Student (1st Year)
 - 💻 Passionate about **Full Stack Development & AI Systems**
 - 🔐 Interested in **Cybersecurity & Ethical Hacking**
-- 🚀 Currently building:
-  - Attendance System with Face Recognition
-  - AI Tutor Chatbot
-  - Power Alert System for Farmers
 - 🎯 Goal: Build impactful SaaS platforms
 
 ---
