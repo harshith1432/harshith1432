@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Student (1st Year)
+- 🎓 MCA Student
 - 💻 Passionate about **Full Stack Development & AI Systems**
 - 🔐 Interested in **Cybersecurity & Ethical Hacking**
 - 🎯 Goal: Build impactful SaaS platforms
